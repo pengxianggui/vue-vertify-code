@@ -1,5 +1,5 @@
 # vue-vertify-code
-拖拽式图形验证码
+vue前端图形验证码
 
 ## 使用方法
 ```vue
